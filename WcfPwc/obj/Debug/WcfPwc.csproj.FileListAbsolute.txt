@@ -1,0 +1,7 @@
+C:\Users\Fr4nk\Documents\Visual Studio 2010\Projects\Havo\WcfPwc\WcfPwc\bin\WcfPwc.dll
+C:\Users\Fr4nk\Documents\Visual Studio 2010\Projects\Havo\WcfPwc\WcfPwc\bin\WcfPwc.pdb
+C:\Users\Fr4nk\Documents\Visual Studio 2010\Projects\Havo\WcfPwc\WcfPwc\bin\Newtonsoft.Json.dll
+C:\Users\Fr4nk\Documents\Visual Studio 2010\Projects\Havo\WcfPwc\WcfPwc\bin\Newtonsoft.Json.xml
+C:\Users\Fr4nk\Documents\Visual Studio 2010\Projects\Havo\WcfPwc\WcfPwc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fr4nk\Documents\Visual Studio 2010\Projects\Havo\WcfPwc\WcfPwc\obj\Debug\WcfPwc.dll
+C:\Users\Fr4nk\Documents\Visual Studio 2010\Projects\Havo\WcfPwc\WcfPwc\obj\Debug\WcfPwc.pdb
