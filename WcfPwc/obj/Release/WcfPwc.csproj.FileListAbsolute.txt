@@ -1,9 +1,0 @@
-C:\Users\Fr4nk\Documents\Visual Studio 2010\Projects\Havo\WcfPwc\WcfPwc\bin\WcfPwc.dll
-C:\Users\Fr4nk\Documents\Visual Studio 2010\Projects\Havo\WcfPwc\WcfPwc\bin\WcfPwc.XmlSerializers.dll
-C:\Users\Fr4nk\Documents\Visual Studio 2010\Projects\Havo\WcfPwc\WcfPwc\bin\WcfPwc.pdb
-C:\Users\Fr4nk\Documents\Visual Studio 2010\Projects\Havo\WcfPwc\WcfPwc\bin\Newtonsoft.Json.dll
-C:\Users\Fr4nk\Documents\Visual Studio 2010\Projects\Havo\WcfPwc\WcfPwc\bin\Newtonsoft.Json.xml
-C:\Users\Fr4nk\Documents\Visual Studio 2010\Projects\Havo\WcfPwc\WcfPwc\obj\Release\ResolveAssemblyReference.cache
-C:\Users\Fr4nk\Documents\Visual Studio 2010\Projects\Havo\WcfPwc\WcfPwc\obj\Release\WcfPwc.dll
-C:\Users\Fr4nk\Documents\Visual Studio 2010\Projects\Havo\WcfPwc\WcfPwc\obj\Release\WcfPwc.pdb
-C:\Users\Fr4nk\Documents\Visual Studio 2010\Projects\Havo\WcfPwc\WcfPwc\obj\Release\WcfPwc.XmlSerializers.dll
